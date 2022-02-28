@@ -3,15 +3,15 @@
   "appInfo": {
     "name": "DIne Brand Amplicion",
     "description": "",
-    "version": "dqmyx0j3",
+    "version": "g0rkm7uq",
     "id": "cl06aaz3e125015401s6g2zt7u35",
     "url": "https://app.amplication.com/cl06aaz3e125015401s6g2zt7u35",
     "settings": {
       "dbHost": "localhost",
       "dbName": "",
-      "dbPassword": "admin",
+      "dbPassword": "indhu",
       "dbPort": 5432,
-      "dbUser": "admin",
+      "dbUser": "indhu",
       "appId": "cl06aaz3e125015401s6g2zt7u35",
       "authProvider": "Jwt"
     }
