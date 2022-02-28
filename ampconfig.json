@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.4",
+  "appInfo": {
+    "name": "DIne Brand Amplicion",
+    "description": "",
+    "version": "dqmyx0j3",
+    "id": "cl06aaz3e125015401s6g2zt7u35",
+    "url": "https://app.amplication.com/cl06aaz3e125015401s6g2zt7u35",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl06aaz3e125015401s6g2zt7u35",
+      "authProvider": "Jwt"
+    }
+  }
+}
